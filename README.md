@@ -3,7 +3,7 @@
 A simple and educational REST API built with FastAPI, designed to manage student records stored in an Excel file.
 This project was created to help me understand the core concepts of modern API development using FastAPI, including routing, data processing, dependency handling, and API design principles.
 
-🚀 Project Overview
+#🚀 Project Overview
 This API simulates a student management system and uses an Excel file (students.xlsx) as a lightweight data source instead of a traditional database.
 The API supports:
 	• Retrieving all students
@@ -14,7 +14,7 @@ The API supports:
 	• Automatically generating the Excel file if it does not exist
 Everything is returned in structured JSON format, making the API easy to consume from any frontend or automation script.
 
-🎯 What I Learned From This Project
+#🎯 What I Learned From This Project
 Through building this API, I gained hands-on experience with:
 ✔️ FastAPI Fundamentals
 	• Creating routes and HTTP endpoints
