@@ -16,21 +16,30 @@ Everything is returned in structured JSON format, making the API easy to consume
 
 ## 🎯 What I Learned From This Project
 Through building this API, I gained hands-on experience with:
+
 **✔️ FastAPI Fundamentals**
+
 - Creating routes and HTTP endpoints
 - Understanding request/response models
 - Using automatic documentation (/docs and /redoc)
+  
 **✔️ Data Handling with Pandas**
+
 - Reading and writing Excel files
 - Filtering, sorting, and aggregating tabular data
 - Converting DataFrames to JSON-compatible structures
+
 **✔️ API Architecture Concepts**
+
 - Structuring a backend service
 - Implementing CORS configuration
 - Separating logic into clear functional steps
+
 **✔️ Backend Development Skills**
+
 - Error handling
 - Returning status codes
 - Understanding how a web server (uvicorn) operates
 - Making a Python script behave like a real backend service
+
 This project was a valuable step toward learning how real-world APIs are designed and how backend systems interact with data sources.
