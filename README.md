@@ -46,16 +46,16 @@ This project was a valuable step toward learning how real-world APIs are designe
 
 ## 📦 Installation & Usage
 1. Clone the repository
-git clone https://github.com/<yourusername>/fastapi-student-api.git
-cd fastapi-student-api
+- git clone https://github.com/<yourusername>/fastapi-student-api.git
+- cd fastapi-student-api
 2. Create a virtual environment
-python -m venv venv
-source venv/bin/activate   # Mac/Linux
-venv\Scripts\activate      # Windows
+- python -m venv venv
+- source venv/bin/activate   # Mac/Linux
+- venv\Scripts\activate      # Windows
 3. Install dependencies
-pip install -r requirements.txt
+- pip install -r requirements.txt
 4. Run the server
-uvicorn main:app --reload
+- uvicorn main:app --reload
 5. Open your browser:
-• API Root: http://127.0.0.1:8000
-• Interactive Docs: http://127.0.0.1:8000/docs
+- API Root: http://127.0.0.1:8000
+- Interactive Docs: http://127.0.0.1:8000/docs
