@@ -46,7 +46,7 @@ This project was a valuable step toward learning how real-world APIs are designe
 
 ## 📦 Installation & Usage
 1. Clone the repository
-- git clone https://github.com/<yourusername>/fastapi-student-api.git
+- git clone https://github.com/yourusername/fastapi-student-api.git
 - cd fastapi-student-api
 2. Create a virtual environment
 - python -m venv venv
